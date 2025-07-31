@@ -1,6 +1,6 @@
 # Fake News Detection 
 
-<img src="https://socialify.git.ci/kapilsinghnegi/Fake-News-Detection/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="Fake-News-Detection" width="1280" height="320" />
+<img src="[https://socialify.git.ci/kapilsinghnegi/Fake-News-Detection/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark](https://github.com/nikitadhame/Fake-New-Detection/blob/main/Fake%20News%20Detection.png)" alt="Fake-News-Detection" width="1280" height="320" />
 
 
 This project is a simple machine learning model to detect whether a news article is real or fake. It uses basic text preprocessing and classification techniques, making it beginner-friendly and easy to understand.
