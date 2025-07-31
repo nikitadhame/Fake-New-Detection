@@ -62,7 +62,7 @@ The model achieved good accuracy on the test set. It can be further improved usi
 
 
 ## Fake News Detection Result:
-<img src="https://github.com/nikitadhame/Fake-New-Detection/blob/main/FakeNewsDetectionResult1.png" alt="Fake-News-Detection" width="1000" height="300" />
+<img src="https://github.com/nikitadhame/Fake-New-Detection/blob/main/Images/FakeNewsDetectionResult1.png" alt="Fake-News-Detection" width="1000" height="300" />
 <img src="https://github.com/nikitadhame/Fake-New-Detection/blob/main/FakeNewsDwtwctionResult2.png" alt="Fake-News-Detection" width="1000" height="300" />
 
 
