@@ -1,6 +1,6 @@
 # Fake News Detection 
 
-<img src="https://github.com/nikitadhame/Fake-New-Detection/blob/main/Fake%20News%20Detection.png" alt="Fake-News-Detection" width="800" height="800" />
+<img src="https://https://github.com/nikitadhame/Fake-New-Detection/blob/main/Images/Fake%20News%20Detection.png" alt="Fake-News-Detection" width="800" height="800" />
 
 
 This project is a simple machine learning model to detect whether a news article is real or fake. It uses basic text preprocessing and classification techniques, making it beginner-friendly and easy to understand.
