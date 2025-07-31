@@ -60,6 +60,12 @@ The model achieved good accuracy on the test set. It can be further improved usi
 3.**Add real-time news checking via an API**
 
 
+
+## Fake News Detection Result:
+<img src="https://github.com/nikitadhame/Fake-New-Detection/blob/main/FakeNewsDwtwctionResult1.png" alt="Fake-News-Detection" width="1000" height="300" />
+<img src="https://github.com/nikitadhame/Fake-New-Detection/blob/main/FakeNewsDwtwctionResult2.png" alt="Fake-News-Detection" width="1000" height="300" />
+
+
 ## About Me
 
 I am a student exploring the applications of machine learning in real-world problems. This project was done as part of my learning journey in NLP and model building.
