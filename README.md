@@ -53,12 +53,15 @@ The model achieved good accuracy on the test set. It can be further improved usi
 2.**Better text preprocessing**
 3.**Larger and more diverse datasets**
 
+
 ## Future Improvements:
 1.**Use deep learning models like LSTM or BERT**
 2.**Build a web interface using Flask or Streamlit**
 3.**Add real-time news checking via an API**
 
+
 ## About Me
 
 I am a student exploring the applications of machine learning in real-world problems. This project was done as part of my learning journey in NLP and model building.
----
+
+
